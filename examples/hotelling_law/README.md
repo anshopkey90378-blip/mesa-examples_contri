@@ -26,7 +26,7 @@ mesa-examples/
         │   └── agents.py
         ├── __init__.py
         ├── app.py
-        ├── Readme.md
+        ├── README.md
         ├── requirements.txt
         └── tests.py
 ```
